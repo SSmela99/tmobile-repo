@@ -23,13 +23,13 @@ To install all necessary dependencies and run the application, follow these step
 1. **Clone the repository:**
 
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone git@github.com:SSmela99/tmobile-repo.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd <PROJECT_NAME>
+   cd tmobile-repo
    ```
 
 3. **Install dependencies:**
