@@ -7,7 +7,7 @@ This is a web application designed to display "Top Stories" from the HackerNews 
 ## Technologies
 
 - **Next.js**: 14.2.5
-- **React**: 18
+- **React**: 18dsadsadsad
 - **Tailwind CSS**: 3.x (utilizing `tailwind-merge` and `tailwindcss-animate`)
 - **TypeScript**: Latest compatible version
 
